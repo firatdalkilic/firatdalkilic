@@ -8,7 +8,8 @@
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firatdalkilic&show_icons=true&theme=tokyonight)
+<hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firatdalkilic&theme=tokyonight)
-
-
+<hr>
+<img src="https://github.com/oguzhanduran/oguzhanduran/raw/output/github-contribution-grid-snake.svg" alt="snake svg" style="max-width: 100%;">
