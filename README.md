@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Firat!
 <hr>
 
+![](https://komarev.com/ghpvc/?username=firatdalkilic)
+
 👋 Hi, I’m @firatdalkilic <br>
 👀 I’m interested in Front-End Development <br>
 🌱 I’m currently learning JavaScript <br>
