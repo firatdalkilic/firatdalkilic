@@ -6,4 +6,4 @@
 🌱 I’m currently learning JavaScript <br>
 📫 How to reach me firatdalkilic87@gmail.com <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firatdalkilic&count_private=true)
