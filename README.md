@@ -1,8 +1,5 @@
-### Hi there 👋 
-
+### Hi there 👋 I'm Firat
 <hr>
-
-Here are some ideas to get you started:
 
 👋 Hi, I’m @firatdalkilic
 👀 I’m interested in Front-End Development
